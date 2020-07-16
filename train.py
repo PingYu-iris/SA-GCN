@@ -10,7 +10,7 @@ import argparse
 import torch.optim as optim
 import torch.utils.data
 
-import cameras
+import util.cameras as cameras
 
 from util.utils import *
 from util.evaluation import calcualte_mmd

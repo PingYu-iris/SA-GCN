@@ -16,7 +16,7 @@ import scipy.misc
 import numpy as np
 from time import gmtime, strftime
 import viz
-import data_utils
+import util.data_utils as data_utils
 import pdb
 
 IMG_WIDTH = 320
