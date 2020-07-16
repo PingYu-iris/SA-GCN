@@ -23,6 +23,6 @@ Fig.1 illustrates the overall framework of our model for action generation. It f
 `python3 train.py`
 
 ### Questions?
-Please drop [me](https://irisyu.me) a line or submit a issue to this Github page if you have any questions.
+Please drop [me](https://irisyu.me) a line or submit an issue to this Github page if you have any questions.
 
 
