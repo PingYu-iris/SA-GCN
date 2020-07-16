@@ -14,6 +14,7 @@ If you use this code or these models, please cite the following paper:
 ### Model Architecture
 <p align="center">
   <img src=https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg width="800" title="hover text">
+  jjj
 </p>
 <p align="center">hhh</p>
 
