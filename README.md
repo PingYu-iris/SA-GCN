@@ -12,11 +12,8 @@ If you use this code or these models, please cite the following paper:
 }
 ```
 ### Model Architecture
-![alt text](https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg?raw=true)
-
 <p align="center">
   <img src=https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
 
 
