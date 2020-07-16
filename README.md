@@ -13,7 +13,7 @@ If you use this code or these models, please cite the following paper:
 ```
 ### Model Architecture
 <p align="center">
-  <img src=https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg width="350" title="hover text">
+  <img src=https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg width="700" title="hover text">
 </p>
 
 
