@@ -19,11 +19,10 @@ If you use this code or these models, please cite the following paper:
 
 Fig.1 illustrates the overall framework of our model for action generation. It follows the GAN framework of video generation, which consists of an action generator **_G_** and a dual discriminator: one video-based discriminator **_D_** and one frame-based discriminator **_D_F_**.
 
-
-
-
-
 ### Train
 `python3 train.py`
+
+### Questions?
+Please drop [me](https://irisyu.me) a line or submit a issue to this Github page if you have any questions.
 
 
