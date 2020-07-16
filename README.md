@@ -12,9 +12,7 @@ If you use this code or these models, please cite the following paper:
 }
 ```
 ### Model Architecture
-\includegraphics[width=\textwidth]{./imgs/framework.jpg}
 ![alt text](https://github.com/PingYu-iris/SA-GCN/blob/master/imgs/framework.jpg?raw=true)
-https://github.com/PingYu-iris/SA-GCN/tree/master/imgs
 
 
 
