@@ -17,6 +17,8 @@ If you use this code or these models, please cite the following paper:
 </p>
 <p align="center" style="font-size:8px;">Fig. 1: The overall framework of the proposed method.</p>
 
+<p>Fig.1 illustrates the overall framework of our model for action generation. It follows the GAN framework of video generation \cite{tulyakov2018mocogan,clark2019efficient}, which consists of an action generator  $\mathcal{G}$ and a dual discriminator: one video-based discriminator $\mathcal{D}_V$ and one frame-based discriminator $\mathcal{D}_F$.</p>
+
 
 
 
