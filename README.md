@@ -17,7 +17,7 @@ If you use this code or these models, please cite the following paper:
 </p>
 <p align="center" style="font-size:8px;">Fig. 1: The overall framework of the proposed method.</p>
 
-Fig.1 illustrates the overall framework of our model for action generation. It follows the GAN framework of video generation, which consists of an action generator **_G_** and a dual discriminator: one video-based discriminator **_D_** and one frame-based discriminator **_D_I_**.
+Fig.1 illustrates the overall framework of our model for action generation. It follows the GAN framework of video generation, which consists of an action generator **_G_** and a dual discriminator: one video-based discriminator **_D_** and one frame-based discriminator **_D_F_**.
 
 
 
