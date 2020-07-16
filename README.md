@@ -23,6 +23,7 @@ Fig.1 illustrates the overall framework of our model for action generation. It f
 
 
 
-### Prepare Dataset
+### Train
+`python3 train.py`
 
 
