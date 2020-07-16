@@ -12,9 +12,9 @@ If you use this code or these models, please cite the following paper:
 }
 ```
 ### Model Architecture
-
+\includegraphics[]{./imgs/framework.jpg}
 
 
 ### Prepare Dataset
-\includegraphics[]{../../conference/ECCV_action/paper/ECCV/figures/tsne.jpg}
+
 
