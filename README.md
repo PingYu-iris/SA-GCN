@@ -4,11 +4,11 @@ We propose a variant of GCNs to leverage the powerful self-attention mechanism t
 
 If you use this code or these models, please cite the following paper:
 
-'''
+```
 @article{yu2020structure,
   title={Structure-Aware Human-Action Generation},
   author={Yu, Ping and Zhao, Yang and Li, Chunyuan and Chen, Changyou},
   journal={arXiv preprint arXiv:2007.01971},
   year={2020}
 }
-'''
+```
