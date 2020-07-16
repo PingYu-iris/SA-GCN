@@ -12,8 +12,8 @@ import torch.utils.data
 
 import cameras
 
-from utils import *
-from evaluation import calcualte_mmd
+from util.utils import *
+from util.evaluation import calcualte_mmd
 from model import *
 
 parser = argparse.ArgumentParser()
