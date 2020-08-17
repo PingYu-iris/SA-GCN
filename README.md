@@ -20,7 +20,10 @@ If you use this code or these models, please cite the following paper:
 Fig.1 illustrates the overall framework of our model for action generation. It follows the GAN framework of video generation, which consists of an action generator **_G_** and a dual discriminator: one video-based discriminator **_D_** and one frame-based discriminator **_D_F_**.
 
 ### Train
+Run Human 3.6m experiment with: 
 `python3 train.py`
+
+If you want to test NTU rgb+d, please download NTU data from https://drive.google.com/file/d/1lhCaXABUULIzOit7jiLOW-fXuCeU6fA8/view?usp=sharing
 
 ### Questions?
 Please drop [me](https://sites.google.com/site/pingyuiris/) a line or submit an issue to this Github page if you have any questions.
