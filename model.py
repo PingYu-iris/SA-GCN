@@ -72,7 +72,9 @@ class Discriminator_V(nn.Module):
         o1 = self.linear2(x).squeeze()
         o1 = self.activate(o1)
         o2 = self.linear3(x).squeeze()
-        o2 = self.activate1(o2)
+        # 使用 torch.nn.CrossEntropyLoss()计算交叉熵损失时不能用softmax归一化输出
+        # 参考 https://www.jb51.net/article/178557.htm 官方提供的softmax交叉熵求解结果
+        # o2 = self.activate1(o2)
         return o1,o2
 
 
