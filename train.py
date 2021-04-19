@@ -159,7 +159,7 @@ def pre_data():
 def bp_v(inputs,label,label_num,y,retain=False):
     y_label = y * torch.ones(batch_size, 1).to(device).type(torch.float32)
     label_v = label.unsqueeze(1).repeat(1,opt.seq_length,1)
-    outputs,output2 = dis_v(inputs,label_v)
+    outputs= dis_v(inputs,label_v)
     err = criterion(outputs, y_label)
 #     err = criterion(outputs, y_label)+criterion_c(output2,label_num)
     err.backward(retain_graph=retain)
